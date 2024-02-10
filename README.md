@@ -8,6 +8,7 @@ I have cover these topics
   <li>Basic syntax & print Hello World</li>
   <li>Variables & DataTypes</li>
   <li>Operators</li>
+  <li>UserInput<li>
   <li>Control Flow (if else/ loops/ Ternary )</li>
   <li>Function</li>
   <li>Basic OOPS (Class / Object)</li>
